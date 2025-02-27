@@ -16,10 +16,10 @@
 <h3 align="center">📫 Conecte-se comigo:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/812-brunomuller/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:brunomuller812@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
